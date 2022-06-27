@@ -14,3 +14,6 @@
 - [find input is string or not](./strings/find%20input%20is%20string%20or%20not/index.js)
 - [check whether string is blank or not](./strings/check%20whether%20string%20is%20blank%20or%20not/index.js)
 - [Convert String to Array](./strings/string%20to%20Array/index.js)
+- [extract a specified number of characters from a string.](./strings/Extract%20a%20specific%20number%20of%20characters%20from%20a%20string/index.js)
+- [Convert a string in abbreviated form](./strings/Convert%20a%20string%20in%20abbreviated%20form/index.js)
+  ]
