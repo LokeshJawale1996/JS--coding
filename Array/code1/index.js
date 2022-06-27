@@ -9,7 +9,7 @@ let arr = [
 ];
 
 //Way 1
-console.log(arr);
+// console.log(arr);
 let unique = arr.filter((item, index) => {
   return arr.indexOf(item) === index;
 });
